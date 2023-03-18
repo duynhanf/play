@@ -12,7 +12,7 @@ for (let index = 0; index < 200; index++) {
     })
 
     square.addEventListener('mouseleave', () => {
-        // square.style.background = '#1d1d1d';
+        square.style.background = '#1d1d1d';
     })
 }
 
